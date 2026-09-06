@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "User",
+    "description": {
+        "": "Tüm Fusion 360 projelerini yerel diske .f3d / .step olarak toplu export eder."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
